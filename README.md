@@ -2,7 +2,7 @@
 
 ### Frontend development · React · UI engineering
 
-I'm a B.Tech CSE student at **Newton School of Technology, Bengaluru**, focused on building responsive web interfaces with React and JavaScript. I enjoy turning ideas into useful applications and sharing what I learn through mentoring.
+I'm a B.Tech CSE student at **Newton School of Technology, Bengaluru**, focused on building responsive web interfaces with React and JavaScript. I enjoy turning ideas into useful applications.
 
 - 🔨 Currently building **LocalMind AI**, a locally hosted AI chatbot.
 - 🌱 Strengthening my React, full-stack development, and problem-solving skills.
@@ -19,7 +19,6 @@ I'm a B.Tech CSE student at **Newton School of Technology, Bengaluru**, focused 
 ## Experience & community
 
 - **Google Student Ambassador · 2026** — Exploring Gemini tools and collaborating with fellow student ambassadors.
-- **Student Mentor** — Mentored a group of 40 first-year students.
 - **Aayam Tech Fest Volunteer** — Helped with event coordination.
 
 ## Tech stack
