@@ -19,7 +19,6 @@ I'm a B.Tech CSE student at **Newton School of Technology, Bengaluru**, focused 
 ## Experience & community
 
 - **Google Student Ambassador · 2026** — Exploring Gemini tools and collaborating with fellow student ambassadors.
-- **Web Development Teaching Assistant** — Supporting students as they learn web development.
 - **Student Mentor** — Mentored a group of 40 first-year students.
 - **Aayam Tech Fest Volunteer** — Helped with event coordination.
 
