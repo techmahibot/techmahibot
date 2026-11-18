@@ -1,7 +1,5 @@
 <div align="center">
 
-![Mahi Singh — Building ideas into interfaces](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:06B6D4&height=200&section=header&text=Mahi%20Singh&fontSize=52&fontColor=FFFFFF&desc=Building%20ideas%20into%20interfaces&descSize=18&descAlignY=75&animation=fadeIn)
-
 # Hi, I'm Mahi 👋
 
 **Frontend development · React · UI engineering**
