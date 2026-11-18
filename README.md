@@ -1,40 +1,54 @@
-## Hi I'm Mahi🤖!
+# Hi, I'm Mahi 👋
 
-🎓 First-year CSE student at Newton School of Technology, Bangalore<br/>
-💻 Interested in AI, Machine Learning & Data Science<br/>
-🌱 Currently learning React, DSA, and Python<br/>
-🚀 Building projects and improving my development skills every day<br/>
+### Frontend development · React · UI engineering
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahi-manjari-singh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahisinghparashar@gmail.com) 
+I'm a B.Tech CSE student at **Newton School of Technology, Bengaluru**, focused on building responsive web interfaces with React and JavaScript. I enjoy turning ideas into useful applications and sharing what I learn through mentoring.
 
-## Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+- 🔨 Currently building **LocalMind AI**, a locally hosted AI chatbot.
+- 🌱 Strengthening my React, full-stack development, and problem-solving skills.
+- 🤝 Open to collaborating on web applications and projects with thoughtful user interfaces.
 
-## GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=techmahibot&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=techmahibot&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=techmahibot&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## Featured projects
 
+| Project | What I'm building | Technologies |
+| --- | --- | --- |
+| [LocalMind AI](https://github.com/techmahibot/localmind-ai) | An offline chatbot powered by a local LLM, with a web interface for access over a LAN. **In development.** | React, Vite, Python, FastAPI, Ollama |
+| [BloodDonor](https://github.com/techmahibot/BloodDonor) | A React frontend for donor registration, blood requests, and finding donors by blood group and location. | React, JavaScript |
+| [Health Insurance Platform](https://github.com/techmahibot/health_insurance) | A responsive frontend for exploring and comparing health insurance plans, with policy details and FAQs. | HTML, CSS, JavaScript |
 
-###
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Experience & community
 
+- **Google Student Ambassador · 2026** — Exploring Gemini tools and collaborating with fellow student ambassadors.
+- **Web Development Teaching Assistant** — Supporting students as they learn web development.
+- **Student Mentor** — Mentored a group of 40 first-year students.
+- **Aayam Tech Fest Volunteer** — Helped with event coordination.
 
+## Tech stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Frontend**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Backend & databases**
 
+Python · FastAPI · Node.js · Express · MongoDB
 
+**Tools**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
+## Let's connect
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahi-manjari-singh/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahisinghparashar@gmail.com)
 
+## GitHub activity
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+[![Mahi's GitHub stats](https://github-readme-stats.shion.dev/api?username=techmahibot&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)](https://github.com/techmahibot?tab=repositories)
