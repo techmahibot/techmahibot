@@ -1,6 +1,15 @@
+<div align="center">
+
+![Mahi Singh — Building ideas into interfaces](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:06B6D4&height=200&section=header&text=Mahi%20Singh&fontSize=52&fontColor=FFFFFF&desc=Building%20ideas%20into%20interfaces&descSize=18&descAlignY=75&animation=fadeIn)
+
 # Hi, I'm Mahi 👋
 
-### Frontend development · React · UI engineering
+**Frontend development · React · UI engineering**
+
+[![Explore my projects](https://img.shields.io/badge/Explore_my_projects-7C3AED?style=for-the-badge&logo=github&logoColor=white)](#featured-projects)
+[![Let's connect](https://img.shields.io/badge/Let's_connect-0891B2?style=for-the-badge&logoColor=white)](#lets-connect)
+
+</div>
 
 I'm a B.Tech CSE student at **Newton School of Technology, Bengaluru**, focused on building responsive web interfaces with React and JavaScript. I enjoy turning ideas into useful applications.
 
@@ -25,22 +34,40 @@ I'm a B.Tech CSE student at **Newton School of Technology, Bengaluru**, focused 
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+[![Frontend skills: HTML, CSS, JavaScript, React](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://github.com/techmahibot?tab=repositories)
 
 **Backend & databases**
 
-Python · FastAPI · Node.js · Express · MongoDB
+[![Backend skills: Python, FastAPI, Node.js, Express, MongoDB](https://skillicons.dev/icons?i=python,fastapi,nodejs,express,mongodb&theme=dark)](https://github.com/techmahibot?tab=repositories)
 
-**Tools**
+**Development tools**
 
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+[![Development tools: Git, GitHub, Vite, Vercel, VS Code](https://skillicons.dev/icons?i=git,github,vite,vercel,vscode&theme=dark)](https://github.com/techmahibot?tab=repositories)
+
+**Design:** Canva
+
+## Currently exploring
+
+- ⚛️ Reusable React components and smoother user interactions.
+- 🎨 Responsive layouts and accessible interfaces.
+- 🔌 Connecting frontend experiences with backend APIs.
+- 🧠 Bringing locally hosted AI into a web application through LocalMind AI.
+
+<details>
+<summary><b>👩‍💻 A little more about me — in JavaScript</b></summary>
+
+```js
+const mahi = {
+  location: "Bengaluru, India",
+  studying: "B.Tech in Computer Science",
+  focus: ["Frontend Development", "UI Engineering"],
+  building: "LocalMind AI",
+  community: "Google Student Ambassador 2026",
+  happyToDiscuss: ["React", "Web interfaces", "Project ideas"],
+};
+```
+
+</details>
 
 ## Let's connect
 
@@ -49,4 +76,19 @@ Python · FastAPI · Node.js · Express · MongoDB
 
 ## GitHub activity
 
+<details>
+<summary><b>📊 Expand my GitHub stats</b></summary>
+
 [![Mahi's GitHub stats](https://github-readme-stats.shion.dev/api?username=techmahibot&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)](https://github.com/techmahibot?tab=repositories)
+
+</details>
+
+---
+
+<div align="center">
+
+**Have an idea with a great interface waiting to happen? Let's build it. ✨**
+
+[Explore my repositories →](https://github.com/techmahibot?tab=repositories)
+
+</div>
